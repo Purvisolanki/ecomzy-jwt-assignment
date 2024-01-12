@@ -44,6 +44,7 @@ const Navbar = () => {
             <p>Home</p>
           </NavLink>
 
+          <button>Logout</button>
           <NavLink to="/cart">
             <div className="relative">
               <FaShoppingCart className="text-2xl" />
